@@ -24,6 +24,7 @@ Before running the sketch on the ESP32, the following libraries need to be insta
 
 1. **ArduinoJson** by Benoit Blanchon. The library can be found [here](https://github.com/bblanchon/ArduinoJson).
 2. **PubSubClient** by Nick O'Leary. The library can be found [here](https://github.com/knolleary/pubsubclient/commits/master).
+3. **Sodium** already included in the board firmware
 
 These libraries can be installed directly via the Arduino IDE's Library Manager or manually by downloading them from the provided GitHub links.
 
